@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">Conoce la Música Cubana</string>
+    <string name="developers">Desarrolladores:\nMichel Escalante y Adriana Hernández\n2015</string>
+
+    <string name="categories">Categorías</string>
+    <string name="play">Jugar</string>
+    <string name="records">Récords</string>
+    <string name="your_name">¿Cuál es tu nombre?</string>
+    <string name="player_name">Jugador</string>
+    <string name="start">Comenzar</string>
+    <string name="name_val">Antes escribe tu nombre...</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="quit_to_menu">¿Desea ir al menú principal y cancelar la partida?</string>
+    <string name="attention">Atención</string>
+    <string name="question">¿Qué % suena?</string>
+    <string name="question_no">Pregunta %</string>
+    <string name="init_game">Preparando el juego</string>
+    <string name="extra_answer">La respuesta correcta era \"%\"</string>
+    <string name="next">Continuar</string>
+    <string name="rightAnswer">¡Respuesta correcta!</string>
+    <string name="badAnswer">¡Respuesta incorrecta!</string>
+    <string name="clue">Pista</string>
+    <string name="game_over">Fin del juego</string>
+    <string name="new_game">¡Otra vez!</string>
+
+    <string name="main_menu">Menú</string>
+    <string name="questions_correctly">Aciertos</string>
+    <string name="no_questions_answered">No existen datos</string>
+    <!--Categories-->
+    <string name="genders">Géneros</string>
+    <string name="instruments">Instrumentos</string>
+    <string name="songs_and_artists">Canciones e Intérpretes</string>
+
+    <!--Subcategories-->
+    <string name="artist">Intérprete</string>
+    <string name="gender">Género</string>
+    <string name="instrument">Instrumento</string>
+    <string name="song">Canción</string>
+
+    <!--Questions data-->
+    <string name="answer1">Silvio Rodríguez</string>
+    <string name="options1">Silvio Rodríguez;José White;Ñico Saquito;Pedrito Calvo</string>
+    <string name="clue1">Cantautor, guitarrista y compositor. Exponente característico de la música de Cuba y uno de los músicos cubanos de mayor trascendencia internacional. Fundador del Movimiento de la Nueva Trova, junto a Pablo Milanés, Noel Nicola y Vicente Feliú.</string>
+
+    <string name="answer2">Ojalá</string>
+    <string name="options2">Ojalá;Dos Gardenias;Guantanamera;Yo soy el punto cubano</string>
+    <string name="clue2">Pertenece al disco "Al final de este viaje".</string>
+
+    <string name="answer3">Compay Segundo</string>
+    <string name="options3">El Guayabero;Compay Segundo;David Blanco;Frank Delgado</string>
+    <string name="clue3">Fue el trovador más viejo y famoso del mundo. Guitarrista, clarinetista y compositor. Músico de larga trayectoria y compositor con más de cien creaciones musicales.</string>
+
+    <string name="answer4">Carlos Varela</string>
+    <string name="options4">Frank Delgado;Silvio Rodríguez;Amaury Pérez;Carlos Varela</string>
+    <string name="clue4">Compositor, cantante y guitarrista cubano. Su poesía se basa en cantarle a la realidad de la juventud cubana con sus defectos y virtudes.</string>
+
+    <string name="answer5">Los Zafiros</string>
+    <string name="options5">Los Zafiros;Bamboleo;Charanga Habanera;Buena Fé</string>
+    <string name="clue5">Grupo de Armonía vocal cubano creado en 1961. Formó parte de lo que se conoció en Cuba como el movimiento de feeling y su música se constituyó a partir de una fusión de ritmos cubanos.</string>
+
+    <string name="answer6">Polo Montañez</string>
+    <string name="options6">Pablo Milanés;Silvio Rodríguez;Polo Montañez;Descember Bueno</string>
+    <string name="clue6">Autor de más de 100 temas, cantante de las sonoridades típicas de los campos; figura mítica por su historia y sencillez.</string>
+
+    <string name="answer7">Benny Moré</string>
+    <string name="options7">Benny Moré;José White;Bola de Nieve;Vicente Feliú</string>
+    <string name="clue7">Uno de los más trascendentales músicos cubanos. Conocido como "El Bárbaro del Ritmo"</string>
+
+    <string name="answer8">Dos Gardenias</string>
+    <string name="options8">Corazón;Dos Gardenias;Veinte Años;La Bayamesa</string>
+    <string name="clue8">Canción interpretada por Isolina Carrillo Estrada.</string>
+
+    <string name="answer9">El Manicero</string>
+    <string name="options9">El Bodeguero;El Manicero;El Lechero;El Carnicero</string>
+    <string name="clue9">Popular canción de Moisés Simons.</string>
+
+    <string name="answer10">Guantanamera</string>
+    <string name="options10">Habáname;Guantanamera;La Bayamesa;Dos Gardenias</string>
+    <string name="clue10">Tema musical cubano mundialmente conocido.</string>
+
+    <string name="answer11">José White</string>
+    <string name="options11">José White;Polo Montañez;X Alfonso;Frank Fernández</string>
+    <string name="clue11">Violinista y compositor cubano, considerado uno de los músicos más famosos de su siglo.</string>
+
+    <string name="answer12">La Bayamesa</string>
+    <string name="options12">Dímelo;La Pinareña;La Bayamesa;Cienfuegos</string>
+    <string name="clue12">Piezas antológica del Septeto Ignacio Piñeiro.</string>
+
+    <string name="answer13">Ñico Saquito</string>
+    <string name="options13">Compay Segundo;El Guayabero;Ñico Saquito;David Torrens</string>
+    <string name="clue13">Su influencia en toda la música cubana fue muy importante así como sus señales en las bases de lo que en la actualidad llamamos salsa y timba.</string>
+
+    <string name="answer14">Veinte Años</string>
+    <string name="options14">La Natilla;Razones;Cincuenta Años;Veinte Años</string>
+    <string name="clue14">Tema más popular y difundido de María Teresa Vera.</string>
+
+    <string name="answer15">Yo soy el punto cubano</string>
+    <string name="options15">Yo soy el punto cubano;Trova-Tur;Ella;Soy Cubana</string>
+    <string name="clue15">Su autora es conocida como "La reina del punto cubano".</string>
+
+    <string name="answer16">Buena Fé</string>
+    <string name="options16">Sexto Sentido;Los Van Van;Buena Fé;Orquesta Aragón</string>
+    <string name="clue16">Dúo procedente de la provincia Guantánamo.</string>
+
+    <string name="answer17">Piano</string>
+    <string name="options17">Piano;Trompeta;Armónica;Flauta</string>
+    <string name="clue17">Instrumento de cuerda con un teclado derivado del clavicémbalo y martillos y cuerdas derivados del dulcémele.</string>
+
+    <string name="answer18">Bajo</string>
+    <string name="options18">Guitarra Acústica;Bajo;Violín;Trombón</string>
+    <string name="clue18">Instrumento musical de la familia de los cordófonos, similar en apariencia y construcción a la guitarra eléctrica, pero con un cuerpo de mayores dimensiones.</string>
+
+    <string name="answer19">Batería</string>
+    <string name="options19">Batería;Tumbadora;Bongó;Arpa</string>
+    <string name="clue19">Conjunto de instrumentos musicales de percusión usado para muchas agrupaciones musicales.</string>
+
+    <string name="answer20">Guitarra Acústica</string>
+    <string name="options20">Piano;Tres;Guitarra Acústica;Contrabajo</string>
+    <string name="clue20">Cordófono compuesto con portacuerdas en forma de mango unido orgánicamente a la caja de resonancia y añadido como cuello o brazo.</string>
+
+    <string name="answer21">Guitarra Eléctrica</string>
+    <string name="options21">Bajo;Tres;Violoncello;Guitarra Eléctrica</string>
+    <string name="clue21">Instrumento inventado en Estados Unidos a mediados del siglo XX, por el compositor de jazz Les Paul. Actualmente es usado a nivel mundial.</string>
+
+    <string name="answer22">Flauta</string>
+    <string name="options22">Órgano;Flauta;Clarinete;Saxofón</string>
+    <string name="clue22">Instrumento musical, que consta de un tubo cilíndrico, en el que vibra el aire cuando el soplo del intérprete se dirige contra el filo de la embocadura.</string>
+
+    <string name="answer23">Trombón</string>
+    <string name="options23">Trompeta;Trombón;Clarinete;Flauta</string>
+    <string name="clue23">Instrumento musical aerófono de la familia de viento-metal.</string>
+
+    <string name="answer24">Tres</string>
+    <string name="options24">Acordeón;Guitarra Acústica;Guitarra Eléctrica;Tres</string>
+    <string name="clue24">Instrumento cordófono, derivado de la guitarra que surgió en la isla de Cuba.</string>
+
+    <string name="answer25">Violoncello</string>
+    <string name="options25">Violín;Saxofón;Bajo;Violoncello</string>
+    <string name="clue25">También llamado violón.</string>
+
+    <string name="answer26">Órgano</string>
+    <string name="options26">Piano;Marimba;Órgano;Batería</string>
+    <string name="clue26">Se adoptó por la Iglesia católica y otras iglesias como acompañamiento a los servicios religiosos en el siglo VII.</string>
+
+    <string name="answer27">Saxofón</string>
+    <string name="options27">Saxofón;Trompeta;Corneta;Flauta</string>
+    <string name="clue27">Se asocia comúnmente con la música popular, la música de big band y el jazz.</string>
+
+    <string name="answer28">Trompeta</string>
+    <string name="options28">Trompeta;Armónica;Flauta;Bajo</string>
+    <string name="clue28">Su historia se remonta a los orígenes de la historia de la humanidad. Fue fabricada con cuernos de animales, cañas de bambú, tubos vegetales ahuecados y conchas de moluscos. En la actualidad e fabricada con latón.</string>
+
+    <string name="answer29">Violín</string>
+    <string name="options29">Violín;Guitarra;Bajo;Marimba</string>
+    <string name="clue29">Instrumento de cuerda frotada que tiene cuatro cuerdas.</string>
+
+    <string name="answer30">Bachata</string>
+    <string name="options30">Bachata;Mambo;Trova;Rumba</string>
+    <string name="clue30">Está considerado como un derivado del bolero rítmico, influenciado por otros estilos como el son cubano y el merengue.</string>
+
+    <string name="answer31">Mambo</string>
+    <string name="options31">Conga;Son;Mambo;Salsa</string>
+    <string name="clue31">Género musical y un baile originario de Cuba creado a finales de los años 30 del siglo XX.</string>
+
+    <string name="answer32">Trova</string>
+    <string name="options32">Rock;Balada;Trova;Flamenco</string>
+    <string name="clue32">Es una de las fuentes del gran árbol de la música cubana. Significa poesía con música. Son canciones con letras inteligentes.</string>
+
+    <string name="answer33">Rumba</string>
+    <string name="options33">Bolero;Rumba;Blues;Jazz</string>
+    <string name="clue33">Es tanto una familia de ritmos musicales como un estilo de danza en Cuba. De raíz afrocubana.</string>
+
+    <string name="answer34">Salsa</string>
+    <string name="options34">Reggae;Danzón;Cumbia;Salsa</string>
+    <string name="clue34">Su nombre es el término comercial usado desde finales de los años sesenta para definir al género musical resultante de una síntesis de influencias musicales cubanas con otros elementos de música caribeña, música latinoamericana y jazz.</string>
+
+    <string name="answer35">Pablo Milanés</string>
+    <string name="options35">Pablo Milanés;David Álvarez;X Alfonso;Silvio Rodríguez</string>
+    <string name="clue35">Compositor, cantante, guitarrista y cantautor cubano, uno de los fundadores —junto con Silvio Rodríguez y Noel Nicola— de la Nueva Trova Cubana.</string>
+
+    <string name="answer36">Bolero</string>
+    <string name="options36">Bolero;Electrónica;Guaguancó;Merengue</string>
+    <string name="clue36">Género musical de origen cubano, muy popular en todos los países hispanoamericanos.</string>
+
+    <string name="answer37">Pilón</string>
+    <string name="options37">Flamenco;Pilón;Son;Pop</string>
+    <string name="clue37">Género instrumental, cantable y bailable. Algo de lo más significativo de la carrera musical de Pacho Alonso.</string>
+
+    <string name="answer38">Conga</string>
+    <string name="options38">Rumba;Conga;Trova;Merengue</string>
+    <string name="clue38">Baile popular cubano de origen africano que tiene un ritmo sincopado y se acompaña con tambores.</string>
+
+    <string name="answer39">Rock</string>
+    <string name="options39">Pop;Rock;Electrónica;Balada</string>
+    <string name="clue39">Género musical surgido en Estados Unidos en la década de 1950, que evolucionó hacia una variedad de estilos a partir de la década siguiente  y rápidamente se popularizó por gran parte del mundo.</string>
+
+    <string name="answer40">Son</string>
+    <string name="options40">Ópera;Son;Bachata;Pilón</string>
+    <string name="clue40">Género bailable, que constituye una de las formas básicas dentro de la música cubana. En septiembre de 2012 fue declarado patrimonio cultural de Cuba.</string>
+
+    <string name="answer41">Guaguancó</string>
+    <string name="options41">Guaguancó;Pop;Timba;Salsa</string>
+    <string name="clue41">Es un tipo de rumba original de Cuba, el cual fusiona varios ritmos afrocubanos conocidos como rumba.</string>
+
+    <string name="answer42">Electrónica</string>
+    <string name="options42">Rock;Conga;Mambo;Electrónica</string>
+    <string name="clue42">Tipo de música que emplea para su producción e interpretación de instrumentos electrónicos y tecnología musical electrónica.</string>
+
+    <string name="answer43">Merengue</string>
+    <string name="options43">Reggae;Bachata;Merengue;Jazz</string>
+    <string name="clue43">Baile folklórico dominicano que se ha difundido ampliamente y que muchos consideran como el baile nacional dominicano. Cuenta con la aceptación de los cubanos.</string>
+
+    <string name="answer44">Pop</string>
+    <string name="options44">Balada;Pop;Bolero;Guaguancó</string>
+    <string name="clue44">Estilo de música que ha dominado las listas de ventas desde su aparición, a principios de la década de 1960. Escuchado principalmente por la juventud cubana.</string>
+
+    <string name="answer45">Balada</string>
+    <string name="options45">Balada;Bachata;Rumba;Merengue</string>
+    <string name="clue45">Está considerada como la forma artística más destacada y bella desarrollada por las tradiciones folclóricas del mundo.</string>
+    <string name="app_desc">Géneros, artistas y temas realacionados con la música cubana</string>
+    <string name="app_ver">Versión 1.0</string>
+
+</resources>

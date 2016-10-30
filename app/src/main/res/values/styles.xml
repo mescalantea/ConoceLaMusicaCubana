@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_height">@dimen/button_height</item>
+        <item name="android:layout_width">@dimen/button_width</item>
+        <item name="android:background">@drawable/button</item>
+        <!--<item name="android:elevation">5dp</item>-->
+        <!--<item name="android:shadowColor">@color/colorShadow</item>-->
+        <!--<item name="android:shadowDx">0</item>-->
+        <!--<item name="android:shadowDy">0</item>-->
+        <!--<item name="android:shadowRadius">5</item>-->
+    </style>
+
+    <style name="ButtonMain" parent="Button">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">@dimen/button_main_height</item>
+        <item name="android:layout_width">@dimen/button_main_width</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ButtonAnswer" parent="Button">
+        <item name="android:layout_height">@dimen/button_height</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
+    <style name="ResultText">
+        <item name="android:textSize">@dimen/result_size</item>
+                <!--<item name="android:textColor">@color/colorWhite</item>-->
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ExtraResult">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">@dimen/activity_vertical_margin</item>
+        <item name="android:textSize">@dimen/extra_size</item>
+    </style>
+
+    <style name="CircularProgress" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/colorWhite</item>
+    </style>
+
+    <!--<style name="ButtonMedium" parent="Button">-->
+        <!--<item name="android:layout_height">@dimen/button_main_height</item>-->
+        <!--<item name="android:layout_width">@dimen/button_main_width</item>-->
+        <!--<item name="android:layout_gravity">center_horizontal</item>-->
+        <!--<item name="android:textSize">20sp</item>-->
+    <!--</style>-->
+
+</resources>

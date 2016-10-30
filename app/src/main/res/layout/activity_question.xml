@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@mipmap/background"
+     >
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/colorPrimary"
+        android:id="@+id/relativeLayout">
+
+        <ImageButton
+            android:id="@+id/menuImageButton"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@mipmap/menu"
+            android:scaleType="centerCrop"
+            android:background="@null"
+            android:tint="@color/colorAccent"
+            android:layout_marginLeft = "@dimen/activity_horizontal_margin"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/question_no"
+            android:id="@+id/questionNoTextView"
+            android:textColor="@android:color/white"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/menuImageButton"
+            android:layout_toEndOf="@+id/menuImageButton"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:textSize="20sp"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            />
+
+        <ImageButton
+            android:id="@+id/clueImageButton"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@mipmap/idea"
+            android:scaleType="centerCrop"
+            android:background="@null"
+            android:tint="@color/colorAccent"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight = "@dimen/activity_horizontal_margin"
+            />
+
+        <ImageButton
+            android:id="@+id/playImageButton"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@mipmap/play_button"
+            android:scaleType="centerCrop"
+            android:background="@null"
+            android:tint="@color/colorAccent"
+            android:layout_alignTop="@+id/clueImageButton"
+            android:layout_toLeftOf="@+id/clueImageButton"
+            android:layout_toStartOf="@+id/clueImageButton"
+            android:layout_marginRight = "@dimen/activity_horizontal_margin"
+            />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="@dimen/question_image"
+        android:layout_height="@dimen/question_image"
+        android:id="@+id/iconImageView"
+        android:src="@mipmap/music"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_horizontal_margin" />
+
+    <TextView
+        android:id="@+id/questionTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:textSize="@dimen/question_size"
+        android:layout_below="@+id/iconImageView"
+        android:text="@string/question"
+        android:padding="4dp"
+        />
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/button1"
+                android:text=""
+                style="@style/ButtonAnswer"
+                />
+
+            <Button
+                android:id="@+id/button2"
+                android:text=""
+                style="@style/ButtonAnswer" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/button3"
+                android:text=""
+                style="@style/ButtonAnswer" />
+
+            <Button
+                android:id="@+id/button4"
+                android:text=""
+                style="@style/ButtonAnswer" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>
