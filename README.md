@@ -1,0 +1,3 @@
+"Conoce La Música Cubana" es una aplicación móvil para dispositivos Android que tiene como fin enseñar los conceptos básicos de la música y cultura musical cubana a los estudiantes de enseñanza primaria, apoyando la labor de los Instructores de Arte. 
+El alumno a través del juego didáctico puede evaluar sus conocimientos. La evaluación se realizará mediante preguntas, donde el estudiante deberá seleccionar una respuesta. En el caso de ser incorrecta se le mostrará la respuesta correcta. Además, podrá visualizar pistas que le ayuden a responder correctamente y a ampliar su conocimiento.
+La aplicación cuenta con una sección donde se podrán constatar el progreso del estudiante consultando las puntuaciones obtenidas previamente.
